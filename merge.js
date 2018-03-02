@@ -1,1 +1,1 @@
-console.log('testing the merging of branches with master');
+console.log('working with branches, committing and pushing to branch on server');
